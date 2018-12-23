@@ -4,7 +4,7 @@
 #
 Name     : R-brglm
 Version  : 0.6.1
-Release  : 11
+Release  : 12
 URL      : https://cran.r-project.org/src/contrib/brglm_0.6.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/brglm_0.6.1.tar.gz
 Summary  : Bias Reduction in Binomial-Response Generalized Linear Models
